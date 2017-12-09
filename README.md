@@ -1,2 +1,2 @@
-# DGGN
+# DSGN
 b-i exercise
